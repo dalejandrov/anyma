@@ -7,7 +7,7 @@ public class Scenes : MonoBehaviour
 {
     public void Sure()
     {
-        SceneManager.LoadScene("ConfirmarSalida");
+        SceneManager.LoadScene("ConfimarSalida");
     }
     public void Play()
     {

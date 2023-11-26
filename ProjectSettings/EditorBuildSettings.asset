@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Config.unity
     guid: 972463735e9b46b4c892fa4c2d58c4fc
   - enabled: 1
+    path: Assets/Scenes/ConfimarSalida.unity
+    guid: 3d2b3e369cf83fe4aa74a35576671cd7
+  - enabled: 1
     path: Assets/Tutorial.unity
     guid: dd850f46d326e4c4ca4d91907ea42cdb
   - enabled: 1
