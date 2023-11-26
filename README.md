@@ -22,6 +22,28 @@ Al completar cada nivel, las almas agradecidas se dirigían al **"Pozo de almas 
 
 #### Mecánicas:
 
-**Cámara: 2D**
+* **Cámara:** 2D
 
-Controles: Táctiles (Desplazamiento lateral al tocar la pantalla y deslizar) y botones dependiendo del nivel (Interacción con elementos específicos como los tótem de los recuerdos).
+* **Controles:** Táctiles (Desplazamiento lateral al tocar la pantalla y deslizar) y botones dependiendo del nivel (Interacción con elementos específicos como los tótem de los recuerdos).
+
+#### Diseño de Interfaces:
+
+* Menú:
+![](https://img.itch.zone/aW1nLzE0MTQwMzMzLmpwZw==/original/l07wwW.jpg)
+
+* Configuración:
+![](https://img.itch.zone/aW1nLzE0MTQwMzUyLmpwZw==/original/4%2Flfhc.jpg)
+
+* Cómo jugar:
+![](https://img.itch.zone/aW1nLzE0MTQwMzYyLmpwZw==/original/MqtcLr.jpg)
+![](https://img.itch.zone/aW1nLzE0MTQwMzY1LmpwZw==/original/JxpqTy.jpg)
+
+* Capítulos:
+![](https://img.itch.zone/aW1nLzE0MTQwMzc0LmpwZw==/original/4zPUGq.jpg)
+![](https://img.itch.zone/aW1nLzE0MTQwMzc1LmpwZw==/original/XeWWJJ.jpg)
+![](https://img.itch.zone/aW1nLzE0MTQwMzc5LmpwZw==/original/5%2Bm0Mv.jpg)
+
+* Nivel 1:
+
+![](https://img.itch.zone/aW1nLzE0MTQwMzg0LmpwZw==/original/KvTYby.jpg)
+![](https://img.itch.zone/aW1nLzE0MTQwMzg2LmpwZw==/original/CWET3T.jpg)
