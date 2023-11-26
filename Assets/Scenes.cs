@@ -5,7 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class Scenes : MonoBehaviour
 {
-
+    public void Sure()
+    {
+        SceneManager.LoadScene("ConfirmarSalida");
+    }
     public void Play()
     {
         SceneManager.LoadScene("Level1");
@@ -25,6 +28,10 @@ public class Scenes : MonoBehaviour
     public void Credits()
     {
         SceneManager.LoadScene("Creditos");
+    }
+    public void Cinematic()
+    {
+        SceneManager.LoadScene("SampleScene");
     }
     public void Exit()
     {
