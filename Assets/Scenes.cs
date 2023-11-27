@@ -13,6 +13,10 @@ public class Scenes : MonoBehaviour
     {
         SceneManager.LoadScene("Level1");
     }
+    public void Capitulos()
+    {
+        SceneManager.LoadScene("Capitulos");
+    }
     public void Main()
     {
         SceneManager.LoadScene("MenuPrincipal");
